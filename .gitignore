@@ -1,1 +1,5 @@
 # List of untracked files to ignore
+node_modules
+_site
+index.html
+*.json
